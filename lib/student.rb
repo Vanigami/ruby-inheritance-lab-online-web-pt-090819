@@ -1,5 +1,11 @@
 class Student < User 
   attr_accessor @knowledge 
   
-  deg
+  def initialize 
+    @knowledge = []
+  end
+  
+  def learn 
+    @
+  
 end
